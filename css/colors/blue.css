@@ -1,0 +1,86 @@
+/* 
+    Document   : REDCSC
+    Created on : 2012-10-31, 15:44:41
+    Author     : Dany Duchaine
+    Description:
+        Red Color Scheme
+*/
+
+
+/* Page Background Color */
+
+#carousel .flex-viewport,
+.pageContentWrapper,
+.homeWidgetModule,
+.pageWidgetModule
+{
+    background: #e4e8ee;
+}
+
+/* Links Color */
+
+a, a:visited {  color: #26a77b; }
+a:hover, a:focus { color: #1b7a5a; }
+
+
+/* Buttons Color */
+
+.button-small-theme { background: #3bb4ec !important; }
+
+/* Accent color */
+
+a, a:visited {  color: #26a77b; }
+a:hover, a:focus { color: #1b7a5a; }
+
+
+.button-small-theme { background: #3bb4ec !important; }
+
+.footerModule h2, 
+.mainNav .active, 
+.mainNav li a:hover, 
+.flex-active-slide .navDescription, 
+.pageInfo, 
+.special li,
+.pricing .price,
+.special .description,
+.postThumbDate,
+.widget span a:hover,
+.difficultyLevel
+{
+    background: #3bb4ec;
+}
+.footerModule h3, 
+.slidesDescription, 
+.pricing li,
+.widget h3,
+.classesInfo,
+.contactForm
+
+{
+    border-left: 5px solid #3bb4ec;
+}
+.pricingTable .special .title {
+       background: url(../../images/pricingBg.png) #3bb4ec top right no-repeat !important;
+}
+blockquote {
+    border-left: 3px solid #3bb4ec;
+}
+.topBarActive {
+    background-color: #3bb4ec !important;
+    border-bottom: 1px solid #3bb4ec;
+}
+.contact:hover {
+     background: url(../../images/mailIconLight.png) no-repeat 19px 16px #3bb4ec;
+     border-bottom: 1px solid #3bb4ec;
+}
+.openingHours:hover  {
+    background: url(../../images/openingHoursIconLight.png) no-repeat 19px 15px #3bb4ec;
+    border-bottom: 1px solid #3bb4ec;
+}
+.mainNav li a:hover {
+    border-right: 1px solid #3bb4ec;
+}
+.singleThumb img, .postThumb {
+    border-bottom: 5px solid #3bb4ec;
+}
+.special .title {  background: url(../../images/pricingBg.png) #3bb4ec top right no-repeat;}

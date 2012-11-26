@@ -1,0 +1,98 @@
+/* 
+    Document   : REDCSC
+    Created on : 2012-10-31, 15:44:41
+    Author     : Dany Duchaine
+    Description:
+        Red Color Scheme
+*/
+
+
+/* Page Background Color */
+
+#carousel .flex-viewport,
+.pageContentWrapper,
+.homeWidgetModule,
+.pageWidgetModule
+{
+    background: #e4e8ee;
+}
+
+/* Links Color */
+
+a, a:visited {  color: #26a77b; }
+a:hover, a:focus { color: #1b7a5a; }
+
+
+/* Buttons Color */
+
+.button-small-theme { background: #7b68bf !important; 			
+		-webkit-transition: background-color .2s linear;
+		-moz-transition: background-color .2s linear;
+		-o-transition: background-color .2s linear;
+		-ms-transition: background-color .2s linear;
+		transition: background-color .2s linear;
+
+ 
+}
+.button-small-theme:hover {
+	background: #C45AC3!important;	
+}
+
+/* Accent color */
+
+a, a:visited {  color: #26a77b; }
+a:hover, a:focus { color: #1b7a5a; }
+
+
+.button-small-theme { background: #7b68bf !important; }
+
+.footerModule h2, 
+.mainNav .active, 
+.mainNav li a:hover, 
+.flex-active-slide .navDescription, 
+.pageInfo, 
+.special li,
+.pricing .price,
+.special .description,
+.postThumbDate,
+.widget span a:hover,
+.difficultyLevel
+{
+    background: #bd9cda;
+}
+.footerModule h3, 
+.slidesDescription, 
+.pricing li,
+.widget h3,
+.classesInfo,
+.contactForm
+
+{
+    border-left: 5px solid #d19eff;
+}
+.pricingTable .special .title {
+       background: url(../../img/pricingBg.png) #7b68bf top right no-repeat !important;
+}
+blockquote {
+    border-left: 3px solid #d19eff;
+}
+.topBarActive {
+    background-color: #7b68bf !important;
+    border-bottom: 1px solid #d19eff;
+}
+.contact:hover {
+     background: url(../../img/mailIconLight.png) no-repeat 19px 16px #7b68bf;
+     border-bottom: 1px solid #d19eff;
+}
+.openingHours:hover  {
+    background: url(../../img/openingHoursIconLight.png) no-repeat 19px 15px #7b68bf;
+    border-bottom: 1px solid #d19eff;
+}
+.mainNav li a:hover {
+    border-right: 1px solid #d19eff;
+}
+.singleThumb img, .postThumb {
+    border-bottom: 5px solid #d19eff;
+}
+.special .title {  background: url(../../img/pricingBg.png) #7b68bf top right no-repeat;}
+

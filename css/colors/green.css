@@ -1,0 +1,79 @@
+/* 
+    Document   : Green
+    Created on : 2012-10-31, 15:44:41
+    Author     : Dany Duchaine
+    Description:
+        Red Color Scheme
+*/
+
+/* Page Background Color */
+
+#carousel .flex-viewport,
+.pageContentWrapper,
+.homeWidgetModule,
+.pageWidgetModule
+{
+    background: #f5f1ef;
+}
+
+/* Links Color */
+
+a, a:visited {  color: #26a77b; }
+a:hover, a:focus { color: #1b7a5a; }
+
+
+/* Buttons Color */
+
+.button-small-theme { background: #59bd5d !important; }
+
+/* Accent color */
+
+.footerModule h2, 
+.mainNav .active, 
+.mainNav li a:hover, 
+.flex-active-slide .navDescription, 
+.pageInfo, 
+.special li,
+.pricing .price,
+.special .description,
+.postThumbDate,
+.widget span a:hover,
+.difficultyLevel
+{
+    background: #59bd5d;
+}
+.footerModule h3, 
+.slidesDescription, 
+.pricing li,
+.widget h3,
+.classesInfo,
+.contactForm
+
+{
+    border-left: 5px solid #59bd5d;
+}
+.pricingTable .special .title {
+       background: url(../../images/pricingBg.png) #59bd5d top right no-repeat !important;
+}
+blockquote {
+    border-left: 3px solid #59bd5d;
+}
+.topBarActive {
+    background-color: #59bd5d !important;
+    border-bottom: 1px solid #59bd5d;
+}
+.contact:hover {
+     background: url(../../images/mailIconLight.png) no-repeat 19px 16px #59bd5d;
+     border-bottom: 1px solid #59bd5d;
+}
+.openingHours:hover  {
+    background: url(../../images/openingHoursIconLight.png) no-repeat 19px 15px #59bd5d;
+    border-bottom: 1px solid #59bd5d;
+}
+.mainNav li a:hover {
+    border-right: 1px solid #59bd5d;
+}
+.singleThumb img, .postThumb {
+    border-bottom: 5px solid #59bd5d;
+}
+.special .title {  background: url(../../images/pricingBg.png) #59bd5d top right no-repeat;}
