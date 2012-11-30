@@ -38,9 +38,6 @@ em {
 .pageContent p {
     line-height: 26px;
 }
-.pageContent p.wabam {
-    clear: both;
-}
 body p {
     margin: 0 0 10px 0;
 }
@@ -330,7 +327,7 @@ line-height: 28px;
     margin: 0;
 }
 #carousel {
-
+    margin-bottom: 20px;
 }
 
 #carousel .slides {
@@ -467,7 +464,6 @@ text-shadow: none;
     padding: 25px;
     border: 1px solid #cdced0;
     margin-bottom: 30px;
-	overflow: hidden;
 }
 .breadcrumb {
     text-align: right;
