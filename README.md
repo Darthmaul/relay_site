@@ -7,7 +7,7 @@ This repository is for all source code of the Relay For Life website for web des
 
 For more information, please consult Andrew.
 
-General Inforamtion
+General Information
 ==========
 This website is a website for the Relay for Life philanthropy. It was designed by Andrew Nolan, and all content was done by contributing authors in the group. Everyone contributed an awesome amount of content and effort; definitely a project well-worth doing.
 
