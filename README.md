@@ -22,4 +22,4 @@ Lastly, we have our fundraising page that has a wizard function, utalizing a bit
 
 I've heard enough!
 ==========
-Alright, so you want to view the site live? What are you waiting for?! Click this link! http://bit.ly/QIGhlO
+Alright, so you want to view the site live? What are you waiting for?! Click this link! <a href="http://bit.ly/QIGhlO" target="_blank">http://bit.ly/QIGhlO</a>
