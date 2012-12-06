@@ -4,7 +4,7 @@
    font-family: 'Oswald', sans-serif;
     text-transform: none !important;
     line-height: 22px;
-    padding: 12px 13px 11px;
+    padding: 25px 26px 24px;
     text-align: center;
     display: inline-block;
     margin-top: 5px;
@@ -24,7 +24,7 @@
     text-shadow: none;
 }
 .button-big {
-     font-size: 18px;
+     font-size: 25px;
 }
 .button-big:hover, .button-small:hover, .button-small-theme:hover {
     color: rgba(255,255,255, 0.65);
